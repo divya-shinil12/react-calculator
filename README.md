@@ -22,17 +22,14 @@ The app is designed to demonstrate the core concepts of React, including compone
 - **JavaScript**: Programming language used for logic and event handling.
 - **CSS**: Styling for the user interface.
 
-================================================================================
-# Getting Started with Create React App
+## Contact
 
-## Available Scripts
+If you have any questions or suggestions, feel free to reach out.
 
-In the project directory, you can run:
+**Divya Chedayan**
+GitHub: https://github.com/divya-shinil12
+Email: divyachedayan20@gmail.com
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+=====================================================================
+Thank you for checking out my Simple React Calculator project!
+=====================================================================
